@@ -1,0 +1,32 @@
+body {
+    background-color: #fee3d8;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    margin-bottom: 15px;
+    width: 550px;
+}
+
+th {
+    font-size: large;
+}
+
+
+
+button {
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: #bfee62;
+    font-weight: 700;
+}
+
+
+
+p {
+    max-width: 70%;
+    word-wrap: break-word;
+}
