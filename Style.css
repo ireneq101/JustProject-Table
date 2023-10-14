@@ -1,5 +1,22 @@
-body {
+* {
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+
+h2 {
+    margin-bottom: 2%;
+}
+
+p {
+    margin-bottom: 2%;
+}
+
+.cover {
     background-color: #fee3d8;
+    width: 37%;
+    padding: 1% 2%;
+    margin: 4% auto;
 }
 
 table, th, td {
@@ -7,11 +24,18 @@ table, th, td {
     border-collapse: collapse;
     padding: 15px;
     margin-bottom: 15px;
-    width: 550px;
 }
+
+table {
+    width: 100%;
+    margin-top: 2%;
+}
+
 
 th {
     font-size: large;
+    text-align: left;
+    
 }
 
 
@@ -22,11 +46,4 @@ button {
     border: none;
     background-color: #bfee62;
     font-weight: 700;
-}
-
-
-
-p {
-    max-width: 70%;
-    word-wrap: break-word;
 }
