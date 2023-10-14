@@ -34,15 +34,14 @@ table {
 
 th {
     font-size: large;
-    text-align: left;
-    
+    text-align: left;    
 }
 
 
 
 button {
     padding: 10px 20px;
-    border-radius: 8px;
+    border-radius: 15%;
     border: none;
     background-color: #bfee62;
     font-weight: 700;
